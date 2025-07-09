@@ -200,7 +200,7 @@
         <div class="form-field radio">
             <label>Sexo:</label>
             <input type="radio" name="sexo" value="M" required> M
-            <input type="radio" name="sexo" value="F"> F
+              <input type="radio" name="sexo" value="F"> F
         </div>
         <div class="form-field">
             <label>Nome do respondente:</label>
