@@ -183,7 +183,7 @@
     <form id="questionarioForm" action="https://form.jotform.com/form/xxxxxxxx" method="POST">
         <div class="form-field">
             <label>Nome do avaliado:</label>
-            <input type="text" name="nome_avaliado" placeholder="Digite o nome" required>
+            <input type="text" name="nome_avaliado" placeholder="                    " required>
         </div>
         <div class="form-field">
             <label>Data de nascimento:</label>
