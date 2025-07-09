@@ -204,7 +204,7 @@
         </div>
         <div class="form-field">
             <label>Nome do respondente:</label>
-            <input type="text" name="nome_respondente" placeholder="Digite o nome" required>
+            <input type="text" name="nome_respondente" placeholder="                    " required>
         </div>
 
         <div class="instructions">
