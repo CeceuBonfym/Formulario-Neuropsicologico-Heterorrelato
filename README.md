@@ -173,9 +173,9 @@
     <div class="header">
         <div class="psi-symbol">Ψ</div>
         <div class="contact-info">
-            <strong>Najila Khatab</strong><br>
+            <strong>Aaaaaa Aaaaaa</strong><br>
             Psicóloga Clínica<br>
-            CRP: 01/22736
+            CRP: 00/00000
         </div>
     </div>
     <h1>Questionário Neuropsicológico – Heterorrelato (Adulto)</h1>
